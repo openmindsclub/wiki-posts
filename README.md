@@ -23,7 +23,7 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 |------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | [Installing ArchLinux UEFI-x86-64](Beginner%20guide%20to%20installing%20archlinux%20UEFI-x86-64/README.md) | Guide To installing Arch Linux in UEFI mode 64-bit along side Windows |
 | [Installing Oracle XE on Linux](Installing%20Oracle%20XE%20on%20Linux/)                                    | Installing Oracle XE on Linux                       |
-| [Using Maven](./Using%20Maven.md)                                                                          | Install and setup Maven on an existing Java project |
+| [Using Maven](Maven/)                                                                          | Install and setup Maven on an existing Java project |
 | [Arduino](./Arduino/README.md)                                                                             | Tuto Sur Arduino |
 | [SmartSniFF](./SmartSniFF/README.md)                                                                       | TUTO SmartSNIFF  |
 | [Comment Rooter un appareil Android](rout-android/README.md)                                                   | Comment Rooter un appareil Android |

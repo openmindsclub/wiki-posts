@@ -26,3 +26,5 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 | [Using Maven](./Using%20Maven.md)                                                                          | Install and setup Maven on an existing Java project |
 | [Arduino](./Arduino/README.md)                                                                             | Tuto Sur Arduino |
 | [SmartSniFF](./SmartSniFF/README.md)                                                                       | TUTO SmartSNIFF  |
+| [Comment Rooter un appareil Android](rout-android/README.md)                                                   | Comment Rooter un appareil Android |
+| [Activer et Désactiver le compte Root dans Ubuntu](rout-ubuntu/README.md)                                                                             | Activer et Désactiver le compte Root dans Ubuntu |

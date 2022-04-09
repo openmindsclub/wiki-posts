@@ -29,3 +29,4 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 | [Comment Rooter un appareil Android](rout-android/README.md)                                                   | Comment Rooter un appareil Android |
 | [Activer et Désactiver le compte Root dans Ubuntu](rout-ubuntu/README.md)                                                                             | Activer et Désactiver le compte Root dans Ubuntu |
 | [Darktable](Darktable/)                                                                          | Introduction to Darktable |
+| [CONTRIBUTING](CONTRIBUTING.md) | Good practises on how to properly use git and have good commit messages.

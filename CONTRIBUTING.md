@@ -3,22 +3,21 @@
 Big question  since i **HATE** bad commits (especially hadouk ta3 locklock)
 
 ## 1. First if all : 
-      - stop using that shitty -m (as in `git commit -m "commit message`)
-      instead just do git commit  but before that 
- 	- Change your git default editor
-  		- If your not confortable with vim nano or emacs (you should use vim its great :3)
- 	- change your default editor by doing so :
-		```
-		git config --global core.editor "editor name"
-		```
-	- for vsCode people simply do 
-		```
-		git config --global core.editor "code --wait"
-		```
-		
-		as this [article  says](https://dev.to/biancapower/how-to-change-your-default-text-editor-for-git-and-avoid-vim-fk0) 
+- stop using that shitty -m (as in `git commit -m "commit message`)
+instead just do git commit  but before that 
+- Change your git default editor
+	- If your not confortable with vim nano or emacs (you should use vim its great :3)
+- change your default editor by doing so :
+	```
+	git config --global core.editor "editor name"
+	```
+- for vsCode people simply do 
+	```
+	git config --global core.editor "code --wait"
+	```
+	As this [article  says](https://dev.to/biancapower/how-to-change-your-default-text-editor-for-git-and-avoid-vim-fk0) 
 
-What it will do is open up a vsCode windows when you can write your commit mesage's Title and Body (when you do -m you only write the Title)
+	What it will do is open up a vsCode windows when you can write your commit mesage's Title and Body (when you do -m you only write the Title)
 
 ## 2. Structure of the commit
 

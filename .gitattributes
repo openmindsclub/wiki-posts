@@ -1,0 +1,4 @@
+*.md linguist-detectable=true
+README.md linguist-detectable=false
+
+* text=auto eol=lf

@@ -47,4 +47,5 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 - [Using Maven](articles/en/Maven/)
 - [CONTRIBUTING](articles/en/CONTRIBUTING.md)
 - [How About Learning It Yourself?](articles/en/learning-it-yourself/)
+- [Red Hat](articles/en/Red-Hat/)
 - [Breast Cancer](articles/en/breast-cancer/)

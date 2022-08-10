@@ -42,7 +42,7 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 
 ### [EN]
 
-- [Installing ArchLinux UEFI-x86-64](articles/en.Beginner%20guide%20to%20installing%20archlinux%20UEFI-x86-64/README.md)
+- [Installing ArchLinux UEFI-x86-64](articles/en/Beginner%20guide%20to%20installing%20archlinux%20UEFI-x86-64/)
 - [Installing Oracle XE on Linux](articles/en/Installing%20Oracle%20XE%20on%20Linux/)
 - [Using Maven](articles/en/Maven/)
 - [CONTRIBUTING](articles/en/CONTRIBUTING.md)

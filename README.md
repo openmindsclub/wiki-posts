@@ -32,6 +32,13 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 - [Android Est-Il Vraiment Libre?](articles/fr/android-libre/)
 - [Conference: Richard Stallman](articles/fr/richard-stallman-conference/)
 - [L'Open Source Pour Luter Contre Le Cancer](articles/fr/FOS-pour-luter-contre-cancer/)
+- [FOS Jump ou comment contribuer à son premier projetOpen Source!](articles/fr/FosJump/README.md)
+- [GNU's Copyleft versus copyright: Va-t-on à droite ou à gauche?](articles/fr/GNU-copyleft-vs-copyright/README.md)
+- [Informathics : Première édition](articles/fr/Informathics-first-edition/README.md)
+- [Le logiciel d'animation 2D du Studio Ghibli est désormais open source](articles/fr/Studio-Ghibli-2D-animation-software/README.md)
+- [Conférence de Cédri VILLANI à l’USTHB](articles/fr/conference-cedric-villani/)
+- [Fikra15 : La réussite au bout des doigts](articles/fr/fikra-15/)
+- [Code open source: Vigilance](articles/fr/oss-vigilance/)
 
 ### [EN]
 
@@ -41,3 +48,4 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 - [CONTRIBUTING](articles/en/CONTRIBUTING.md)
 - [How About Learning It Yourself?](articles/en/learning-it-yourself/)
 - [Red Hat](articles/en/Red-Hat/)
+- [Breast Cancer](articles/en/breast-cancer/)

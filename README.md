@@ -43,6 +43,7 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 - [Ingenic Newton : la plateforme Wearable](articles/fr/ingenic-newton/)
 - [La NASA adopte l’Open Source](articles/fr/nasa-opensource/)
 - [Open Source Beehives](articles/fr/opensource-beehives/)
+- [Lancez Vos Programmes Windows](articles/fr/wine/)
 
 ### [EN]
 

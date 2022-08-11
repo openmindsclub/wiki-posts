@@ -39,6 +39,10 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 - [Conférence de Cédri VILLANI à l’USTHB](articles/fr/conference-cedric-villani/)
 - [Fikra15 : La réussite au bout des doigts](articles/fr/fikra-15/)
 - [Code open source: Vigilance](articles/fr/oss-vigilance/)
+- [Dépollution de l’océan par des approches Open Source](articles/fr/depollution-opensource/)
+- [Ingenic Newton : la plateforme Wearable](articles/fr/ingenic-newton/)
+- [La NASA adopte l’Open Source](articles/fr/nasa-opensource/)
+- [Open Source Beehives](articles/fr/opensource-beehives/)
 
 ### [EN]
 

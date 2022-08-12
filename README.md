@@ -44,6 +44,7 @@ Woah ! you want to contribute by submitting your own tutorial? Here are the basi
 - [La NASA adopte l’Open Source](articles/fr/nasa-opensource/)
 - [Open Source Beehives](articles/fr/opensource-beehives/)
 - [Lancez Vos Programmes Windows](articles/fr/wine/)
+- [Pi Day](articles/fr/pi-day/)
 
 ### [EN]
 

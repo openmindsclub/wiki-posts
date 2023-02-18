@@ -66,6 +66,7 @@ This is the commit description, you can put here additional info you want other 
 ## 3. HOW TO WRITE A GOOD COMMIT
 
 - Read this https://betterprogramming.pub/write-better-git-commit-messages-to-increase-your-productivity-89fa773e8375 
+- You can also optionaly stick to the  [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 - As a "first" good practice we can stick with this syntax:
 
 ```
